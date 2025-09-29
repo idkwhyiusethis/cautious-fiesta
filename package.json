@@ -1,16 +1,12 @@
 {
-  "name": "dealdrops-ping-bot",
+  "name": "discord-role-bot",
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "description": "",
   "dependencies": {
-    "discord.js": "^14.22.1"
+    "discord.js": "^14.15.3"
   }
 }
+
